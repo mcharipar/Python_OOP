@@ -14,4 +14,4 @@ Locally
 - Suggested to run in a new conda environment.
 - Commands and URL's to run for necessary installs included in [Practice_Python_OOP.ipynb](Practice_Python_OOP.ipynb).
 ---
-This is repository will continue to updated with useful, brief explanations, and codeblocks. 
+This repository will continue to updated with useful, brief explanations, and codeblocks. 

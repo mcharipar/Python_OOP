@@ -1,0 +1,1 @@
+simple_example = "If our instructor says it, it likely is correct."

@@ -1,0 +1,1 @@
+simple_example = "This is the updated example2.py in another folder."
